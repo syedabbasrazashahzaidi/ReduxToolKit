@@ -1,0 +1,10 @@
+.ant-card .ant-card-body{
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    padding-left: 25px !important;
+    padding-right:25px !important ;
+}
+
+.ant-progress .ant-progress-text{
+    display: none;
+}
